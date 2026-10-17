@@ -221,4 +221,4 @@ Owely is a completely free software, providing the full version with all feature
 Download Owely today and elevate your screen capturing experience!
 
 ---
-**Last updated:** 2026-10-17 19:13:03 UTC
+**Last updated:** 2026-10-17 22:08:29 UTC
